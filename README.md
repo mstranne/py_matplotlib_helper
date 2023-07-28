@@ -3,7 +3,7 @@
 ## 3D_pose_plot
 Helper function to plot pose as coordinate system with orientation. Something one often needs when debug plotting calculated poses.
 
-find it in 3D_pose_plot.py
+find it in src/3D_pose_plot.py
 
 **plotPose(ax, R, t, scale = np.array((1,1,1)), l_width=2, text = None)**
     plot an coordinate system to visualize Pose (R|t)
