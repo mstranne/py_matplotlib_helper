@@ -7,7 +7,7 @@ Welcome to the home of Python Matplotlib Helper Functions – your one-stop repo
 "Disclaimer: The copyright notice above is meant to add a touch of whimsy and fun to our repository. While we do take the protection of intellectual property seriously, we don't intend for the notice to be legally binding. Enjoy our magical world of Matplotlib Helper Functions responsibly and unleash your creativity!"
 
 ## 3D_pose_plot
-Helper function to plot pose as coordinate system with orientation. Something one often needs when debug plotting calculated poses.
+Helper function to plot pose as coordinate system with orientation, like plot Camera Pose. Something one often needs when debug plotting calculated poses.
 
 find it in [3D_pose_plot](src/3D_pose_plot.py)
 
