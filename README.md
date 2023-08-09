@@ -24,7 +24,7 @@ find it in [3D_pose_plot](src/3D_pose_plot.py)
 ![](imgs/pose_plot.png)
 
 ## plot image (plane) in 3D 
-Helper function to plot an image in 3D satter plot. This can be used to visualize some images taken with given pose. Watch out, since surface_plot is used each pixel needs own face in surface, which makes it very ineffective for large images. If you got a better solution please add, I did not find anything better in matplotlib. 
+Helper function to plot an image in 3D scatter plot with matplotlib. This can be used to visualize some images taken with given pose. Watch out, since surface_plot is used each pixel needs own face in surface, which makes it very ineffective for large images. If you got a better solution please add, I did not find anything better in matplotlib. 
 
 find it in [3D_pose_plot](src/3D_pose_plot.py)
 
